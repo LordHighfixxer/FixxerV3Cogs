@@ -5,7 +5,7 @@
 	"name": "RSS",
 	"disabled": false,
 	"short": "rss cog",
-	"description": "An RSS cog. Ported by Fixx from the SinbadCogs repo due to his departure from the redbot project",
+	"description": "An RSS cog.",
 	"tags": [
 		"rss"
 	],
